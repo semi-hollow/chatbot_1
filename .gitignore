@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+data/app.db
+data/chroma/
+
+# 由脚本生成的示例二进制文档
+data/documents/settlement_checklist.docx
